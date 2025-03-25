@@ -62,10 +62,6 @@ int main(){
         }
         frame_id++;
     }
-    
-    
     close(socket_desc);
-    
     return 0;
-    
 }
